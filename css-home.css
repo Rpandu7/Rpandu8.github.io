@@ -1,0 +1,30 @@
+body {
+    font-family: 'Share Tech', sans-serif;
+    color: white;
+    display: flex;
+    margin: 0;
+    width: 90vw;
+    height: 95vw;
+    background: linear-gradient(to right top, #00f7ff 0%, #006400 100%);
+}
+
+.img {
+    width: 70px;
+    height: 70px;
+    position: relative;
+}
+
+.Home {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    right: -140px;
+    bottom: -20px;
+    font-size: 25px;
+    border-top:transparent;
+    border-right: transparent;
+    border-left: transparent;
+    background: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
